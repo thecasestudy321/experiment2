@@ -1,0 +1,179 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":233,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":44},
+	"sourceSize": {"w":233,"h":44}
+},
+"Bitmap 1 复制":
+{
+	"frame": {"x":237,"y":2,"w":160,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":189},
+	"sourceSize": {"w":160,"h":189}
+},
+"Bitmap 10":
+{
+	"frame": {"x":399,"y":2,"w":173,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":98},
+	"sourceSize": {"w":173,"h":98}
+},
+"Bitmap 11":
+{
+	"frame": {"x":574,"y":2,"w":164,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":194},
+	"sourceSize": {"w":164,"h":194}
+},
+"Bitmap 12":
+{
+	"frame": {"x":574,"y":2,"w":164,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":194},
+	"sourceSize": {"w":164,"h":194}
+},
+"Bitmap 2 复制":
+{
+	"frame": {"x":740,"y":2,"w":89,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":210},
+	"sourceSize": {"w":89,"h":210}
+},
+"Bitmap 2 复制 2":
+{
+	"frame": {"x":831,"y":2,"w":218,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":149},
+	"sourceSize": {"w":218,"h":149}
+},
+"Bitmap 20":
+{
+	"frame": {"x":2,"y":214,"w":1292,"h":688},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1292,"h":688},
+	"sourceSize": {"w":1292,"h":688}
+},
+"Bitmap 20 复制":
+{
+	"frame": {"x":1296,"y":214,"w":636,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":636,"h":123},
+	"sourceSize": {"w":636,"h":123}
+},
+"Bitmap 218":
+{
+	"frame": {"x":1934,"y":214,"w":47,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":72},
+	"sourceSize": {"w":47,"h":72}
+},
+"Bitmap 4 复制":
+{
+	"frame": {"x":2,"y":904,"w":187,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":118},
+	"sourceSize": {"w":187,"h":118}
+},
+"Bitmap 96":
+{
+	"frame": {"x":191,"y":904,"w":238,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":227},
+	"sourceSize": {"w":238,"h":227}
+},
+"cup.png":
+{
+	"frame": {"x":431,"y":904,"w":140,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":126},
+	"sourceSize": {"w":140,"h":126}
+},
+"dish_qc.png":
+{
+	"frame": {"x":573,"y":904,"w":222,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":100},
+	"sourceSize": {"w":222,"h":100}
+},
+"hitArea.png":
+{
+	"frame": {"x":797,"y":904,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"matches_fire":
+{
+	"frame": {"x":849,"y":904,"w":193,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":156},
+	"sourceSize": {"w":193,"h":156}
+},
+"matches_hitArea":
+{
+	"frame": {"x":1044,"y":904,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"matches_match.png":
+{
+	"frame": {"x":1096,"y":904,"w":121,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":61},
+	"sourceSize": {"w":121,"h":61}
+},
+"timeline_bcircle_11":
+{
+	"frame": {"x":1219,"y":904,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bcircle_21":
+{
+	"frame": {"x":1271,"y":904,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"timeline_bhitArea1":
+{
+	"frame": {"x":1323,"y":904,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"346778962f529349.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

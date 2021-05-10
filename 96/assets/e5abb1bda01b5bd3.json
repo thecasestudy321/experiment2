@@ -1,0 +1,131 @@
+﻿{"frames": {
+
+"Bitmap 1 复制":
+{
+	"frame": {"x":2,"y":2,"w":229,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":95},
+	"sourceSize": {"w":229,"h":95}
+},
+"Bitmap 1 复制 2":
+{
+	"frame": {"x":233,"y":2,"w":54,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":229},
+	"sourceSize": {"w":54,"h":229}
+},
+"Bitmap 2 复制":
+{
+	"frame": {"x":289,"y":2,"w":55,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":6},
+	"sourceSize": {"w":55,"h":6}
+},
+"Bitmap 2 复制 2":
+{
+	"frame": {"x":346,"y":2,"w":160,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":189},
+	"sourceSize": {"w":160,"h":189}
+},
+"Bitmap 21":
+{
+	"frame": {"x":508,"y":2,"w":1292,"h":688},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1292,"h":688},
+	"sourceSize": {"w":1292,"h":688}
+},
+"Bitmap 22":
+{
+	"frame": {"x":1802,"y":2,"w":54,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":229},
+	"sourceSize": {"w":54,"h":229}
+},
+"Bitmap 24":
+{
+	"frame": {"x":2,"y":692,"w":228,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":8},
+	"sourceSize": {"w":228,"h":8}
+},
+"Bitmap 4 复制":
+{
+	"frame": {"x":232,"y":692,"w":207,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":83},
+	"sourceSize": {"w":207,"h":83}
+},
+"Bitmap 6 复制":
+{
+	"frame": {"x":441,"y":692,"w":44,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":32},
+	"sourceSize": {"w":44,"h":32}
+},
+"magnifier glass.png":
+{
+	"frame": {"x":487,"y":692,"w":330,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":305},
+	"sourceSize": {"w":330,"h":305}
+},
+"ther_png":
+{
+	"frame": {"x":819,"y":692,"w":67,"h":1751},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":1751},
+	"sourceSize": {"w":67,"h":1751}
+},
+"ther_redLine.png":
+{
+	"frame": {"x":888,"y":692,"w":3,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":74},
+	"sourceSize": {"w":3,"h":74}
+},
+"ther_redLine0.png":
+{
+	"frame": {"x":893,"y":692,"w":5,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":12},
+	"sourceSize": {"w":5,"h":12}
+},
+"ther_shang":
+{
+	"frame": {"x":900,"y":692,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25}
+},
+"towels_surround.png":
+{
+	"frame": {"x":931,"y":692,"w":433,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":433,"h":236},
+	"sourceSize": {"w":433,"h":236}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"e5abb1bda01b5bd3.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

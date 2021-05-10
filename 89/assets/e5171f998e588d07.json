@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"Bitmap 20":
+{
+	"frame": {"x":2,"y":2,"w":1292,"h":688},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1292,"h":688},
+	"sourceSize": {"w":1292,"h":688}
+},
+"Bitmap 9 复制":
+{
+	"frame": {"x":1296,"y":2,"w":126,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":52},
+	"sourceSize": {"w":126,"h":52}
+},
+"biaoqing_1.png":
+{
+	"frame": {"x":1424,"y":2,"w":182,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":182},
+	"sourceSize": {"w":182,"h":182}
+},
+"biaoqing_2.png":
+{
+	"frame": {"x":1608,"y":2,"w":182,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":182},
+	"sourceSize": {"w":182,"h":182}
+},
+"straw_water_bottle.png":
+{
+	"frame": {"x":2,"y":692,"w":339,"h":789},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":339,"h":789},
+	"sourceSize": {"w":339,"h":789}
+},
+"water_qc.png":
+{
+	"frame": {"x":343,"y":692,"w":282,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":68},
+	"sourceSize": {"w":282,"h":68}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"e5171f998e588d07.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

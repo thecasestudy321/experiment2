@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"Bitmap 4":
+{
+	"frame": {"x":2,"y":2,"w":296,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":100},
+	"sourceSize": {"w":296,"h":100}
+},
+"_magnet_qc.png":
+{
+	"frame": {"x":300,"y":2,"w":520,"h":405},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":520,"h":405},
+	"sourceSize": {"w":520,"h":405}
+},
+"magnet_qc.png":
+{
+	"frame": {"x":2,"y":409,"w":434,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":434,"h":78},
+	"sourceSize": {"w":434,"h":78}
+},
+"悬挂起来的条形磁铁_qc.png":
+{
+	"frame": {"x":438,"y":409,"w":335,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":335,"h":43},
+	"sourceSize": {"w":335,"h":43}
+},
+"条形磁铁_qc.png":
+{
+	"frame": {"x":775,"y":409,"w":152,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":43},
+	"sourceSize": {"w":152,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"967d1ebe41462d30.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
